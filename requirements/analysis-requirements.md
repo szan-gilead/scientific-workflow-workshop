@@ -2,7 +2,7 @@
 
 ## AE-3: Severe-event summary
 
-The adverse-event summary must include records where `AESEV` is exactly `SEVERE`.
+The adverse-event summary must include records where `AESEV` is exactly `SEVERE` or `LIFE THREATENING`.
 
 ### Output
 
